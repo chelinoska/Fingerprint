@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lab2_IB">
+</Property><Property Name="Archivo de la solución" Value="C:\Documents and Settings\Celina\Mis documentos\Visual Studio 2010\Projects\Lab3_IB\Lab2_IB.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Documents and Settings\Celina\Mis documentos\Visual Studio 2010\Projects\Lab3_IB\Lab2_IB.suo">
+</Property><Property Name="Date" Value="jueves, 20 de marzo de 2014">
+</Property><Property Name="Time" Value="15:13">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lab2_IB.sln" Description="La copia C:\Documents and Settings\Celina\Mis documentos\Visual Studio 2010\Projects\Lab3_IB\Lab2_IB.sln.old del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Lab2_IB.suo" Description="La copia C:\Documents and Settings\Celina\Mis documentos\Visual Studio 2010\Projects\Lab3_IB\Lab2_IB.suo.old del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Lab2_IB" Source="Lab2_IB\Lab2_IB.vcproj" Description="Converting project file 'C:\Documents and Settings\Celina\Mis documentos\Visual Studio 2010\Projects\Lab3_IB\Lab2_IB\Lab2_IB.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Lab2_IB" Source="Lab2_IB\Lab2_IB.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Lab2_IB" Source="Lab2_IB\Lab2_IB.vcproj" Description="Done converting to new project file 'C:\Documents and Settings\Celina\Mis documentos\Visual Studio 2010\Projects\Lab3_IB\Lab2_IB\Lab2_IB.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Lab2_IB" Source="Lab2_IB\Lab2_IB.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lab2_IB.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Lab2_IB.sln" Description="Converted">
+</Event></UpgradeLog>

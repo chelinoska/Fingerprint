@@ -1,0 +1,31 @@
+﻿Compilación iniciada a las 26/05/2014 19:22:45.
+     1>Proyecto "C:\Documents and Settings\Celina\Escritorio\Fingerprint Project\Lab2_IB\Lab2_IB.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\FingerPrint.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+         c:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\IB\opencv\build\include /IC:\IB\opencv\build\include\opencv2 /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\FingerPrint.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Principal.cpp /F 10485760 
+         Principal.cpp
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         c:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Celina\Escritorio\Fingerprint Project\Debug\FingerPrint.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\IB\opencv\build\x86\vc11\lib opencv_core248d.lib opencv_imgproc248d.lib opencv_highgui248d.lib opencv_ml248d.lib opencv_video248d.lib opencv_features2d248d.lib opencv_calib3d248d.lib opencv_objdetect248d.lib opencv_contrib248d.lib opencv_legacy248d.lib opencv_flann248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\FingerPrint.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Celina\Escritorio\Fingerprint Project\Debug\FingerPrint.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Celina\Escritorio\Fingerprint Project\Debug\FingerPrint.lib" /MACHINE:X86 Debug\FingerPrint.exe.embed.manifest.res
+         Debug\FilteredDirectional.obj
+         Debug\MinutiaeExtraction.obj
+         Debug\Principal.obj
+         Debug\Sobel.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Archivos de programa\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FingerPrint.exe.embed.manifest" /manifest Debug\FingerPrint.exe.intermediate.manifest
+         Todas las salidas están actualizadas.
+       LinkEmbedManifest:
+         Todas las salidas están actualizadas.
+         Lab2_IB.vcxproj -> C:\Documents and Settings\Celina\Escritorio\Fingerprint Project\Debug\FingerPrint.exe
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\FingerPrint.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\FingerPrint.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Documents and Settings\Celina\Escritorio\Fingerprint Project\Lab2_IB\Lab2_IB.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.09
